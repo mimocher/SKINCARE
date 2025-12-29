@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SKINCARE/static/css/main.fc3c09cf.css",
-    "main.js": "/SKINCARE/static/js/main.5d8e6ec5.js",
+    "main.js": "/SKINCARE/static/js/main.cf6766eb.js",
     "static/media/night.jpg": "/SKINCARE/static/media/night.021763278ee52a2f1e63.jpg",
     "static/media/acne.jpg": "/SKINCARE/static/media/acne.3f9de9d2acc91bbddf8f.jpg",
     "static/media/pink.webp": "/SKINCARE/static/media/pink.8fb1f6a9b65e4a5f25a4.webp",
@@ -26,10 +26,10 @@
     "static/media/mask.webp": "/SKINCARE/static/media/mask.26d8dee05fdef7f6df75.webp",
     "index.html": "/SKINCARE/index.html",
     "main.fc3c09cf.css.map": "/SKINCARE/static/css/main.fc3c09cf.css.map",
-    "main.5d8e6ec5.js.map": "/SKINCARE/static/js/main.5d8e6ec5.js.map"
+    "main.cf6766eb.js.map": "/SKINCARE/static/js/main.cf6766eb.js.map"
   },
   "entrypoints": [
     "static/css/main.fc3c09cf.css",
-    "static/js/main.5d8e6ec5.js"
+    "static/js/main.cf6766eb.js"
   ]
 }
