@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/SKINCARE/static/css/main.fc3c09cf.css",
+    "main.js": "/SKINCARE/static/js/main.5d8e6ec5.js",
+    "static/media/night.jpg": "/SKINCARE/static/media/night.021763278ee52a2f1e63.jpg",
+    "static/media/acne.jpg": "/SKINCARE/static/media/acne.3f9de9d2acc91bbddf8f.jpg",
+    "static/media/pink.webp": "/SKINCARE/static/media/pink.8fb1f6a9b65e4a5f25a4.webp",
+    "static/media/aha.webp": "/SKINCARE/static/media/aha.89b7d764f8184174d4a8.webp",
+    "static/media/sal.webp": "/SKINCARE/static/media/sal.6e58e10bad32657b313a.webp",
+    "static/media/wash.jpg": "/SKINCARE/static/media/wash.7b3154026fc2264224ab.jpg",
+    "static/media/filler.webp": "/SKINCARE/static/media/filler.16890cfaf61672aad6ce.webp",
+    "static/media/api.webp": "/SKINCARE/static/media/api.615aa377c5b3ff610037.webp",
+    "static/media/prot1.webp": "/SKINCARE/static/media/prot1.e890223ea91917a976cf.webp",
+    "static/media/prot.webp": "/SKINCARE/static/media/prot.0f19bad58696f2e89c11.webp",
+    "static/media/urepear.webp": "/SKINCARE/static/media/urepear.94a21d2b50d20acac1ec.webp",
+    "static/media/cee.webp": "/SKINCARE/static/media/cee.9829d3cfa3ef83fc572b.webp",
+    "static/media/red.webp": "/SKINCARE/static/media/red.6173c9d02b37de327e49.webp",
+    "static/media/z.webp": "/SKINCARE/static/media/z.cf0dbbfb8e04e62d8a11.webp",
+    "static/media/milky.webp": "/SKINCARE/static/media/milky.a6e663e98518b111b2e7.webp",
+    "static/media/hh.webp": "/SKINCARE/static/media/hh.cb7996a3c3a1a2c9101a.webp",
+    "static/media/pads.webp": "/SKINCARE/static/media/pads.f9dfeb4a46e3f35f0cff.webp",
+    "static/media/cetaphil.webp": "/SKINCARE/static/media/cetaphil.d6018ac3c093710f81b7.webp",
+    "static/media/althea.webp": "/SKINCARE/static/media/althea.8c60db1c22552f2d1ec7.webp",
+    "static/media/retinol.webp": "/SKINCARE/static/media/retinol.a5b357239e26d7e34452.webp",
+    "static/media/eu.webp": "/SKINCARE/static/media/eu.a07bdf85ab4769c02293.webp",
+    "static/media/mask.webp": "/SKINCARE/static/media/mask.26d8dee05fdef7f6df75.webp",
+    "index.html": "/SKINCARE/index.html",
+    "main.fc3c09cf.css.map": "/SKINCARE/static/css/main.fc3c09cf.css.map",
+    "main.5d8e6ec5.js.map": "/SKINCARE/static/js/main.5d8e6ec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3c09cf.css",
+    "static/js/main.5d8e6ec5.js"
+  ]
+}
